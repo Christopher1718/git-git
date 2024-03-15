@@ -1,0 +1,7 @@
+[user]
+	name = Cristopher Pierre
+	email = cpierredamis@gmail.com
+[core]
+	editor = code --wait
+	autocrlf = input
+    
